@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MiniMortgageCalculator/static/css/main.f3b866d2.css",
+    "main.js": "/MiniMortgageCalculator/static/js/main.c7b6a08b.js",
+    "static/js/787.284e058b.chunk.js": "/MiniMortgageCalculator/static/js/787.284e058b.chunk.js",
+    "index.html": "/MiniMortgageCalculator/index.html",
+    "main.f3b866d2.css.map": "/MiniMortgageCalculator/static/css/main.f3b866d2.css.map",
+    "main.c7b6a08b.js.map": "/MiniMortgageCalculator/static/js/main.c7b6a08b.js.map",
+    "787.284e058b.chunk.js.map": "/MiniMortgageCalculator/static/js/787.284e058b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b866d2.css",
+    "static/js/main.c7b6a08b.js"
+  ]
+}
